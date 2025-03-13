@@ -62,8 +62,6 @@ public class PaymentSystem {
 
         payment.processPayment(amount);
         System.out.println("Payment successful!");
-
-        scanner.close();
     }
 }
 
